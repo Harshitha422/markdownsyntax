@@ -33,9 +33,9 @@ _*ece*_
     - eeeB
  ### Code
  
- `python
+ ```python
  print("hello')
- `
+ ```
     
     
 
