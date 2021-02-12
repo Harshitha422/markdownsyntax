@@ -22,7 +22,7 @@ _*ece*_
     1. eeeA
     2. eeeB
 3. cse
-    4.cseA
+    4. cseA
     5. cseb
 
 
