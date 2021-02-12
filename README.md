@@ -50,6 +50,8 @@ _*ece*_
  [college web sit](https://www.google.com/search?gs_ssp=eJwFwU0OgyAQBtB0a9I7sHHhyqETQTyCt_gQVNI4_XGa4O37XnPvt97a6OvbfyjSbWqpcowDW7ZIztE4DhNV71JiIAR-YOGQ5u75LecuMMuOopALpsipRX-azWs1)
  ## Inserting Images
  ![aldfgh](https://github.com/Harshitha422/markdownsyntax/blob/master/17422/love.jpg)
+ ## Inserting videos
+ [![video](https://img.youtube.com/vi/fJcuDLAUX80/0.jpg)](https://www.youtube.com/watch?v=fJcuDLAUX80)
 
 
 
