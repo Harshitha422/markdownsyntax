@@ -41,11 +41,14 @@ _*ece*_
  #include <stdio.h>
  int main()
  {
-    printf("hello world")
+    printf("hello world");
     return 0;
  }
  ```
-    
+ ### Inserting Urls
+ [markdown sheet](https://www.example.com)
+ [college web sit](https://www.google.com/search?gs_ssp=eJwFwU0OgyAQBtB0a9I7sHHhyqETQTyCt_gQVNI4_XGa4O37XnPvt97a6OvbfyjSbWqpcowDW7ZIztE4DhNV71JiIAR-YOGQ5u75LecuMMuOopALpsipRX-azWs1)
+ 
     
 
 
