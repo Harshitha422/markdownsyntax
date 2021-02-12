@@ -49,7 +49,7 @@ _*ece*_
  [markdown sheet](https://www.example.com)
  [college web sit](https://www.google.com/search?gs_ssp=eJwFwU0OgyAQBtB0a9I7sHHhyqETQTyCt_gQVNI4_XGa4O37XnPvt97a6OvbfyjSbWqpcowDW7ZIztE4DhNV71JiIAR-YOGQ5u75LecuMMuOopALpsipRX-azWs1)
  ## Inserting Images
- ![aldfgh](image.jpg))
+ ![aldfgh](https://github.com/Harshitha422/markdownsyntax/blob/master/17422/love.jpg)
 
 
 
