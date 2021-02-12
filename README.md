@@ -52,7 +52,8 @@ _*ece*_
  ![aldfgh](https://github.com/Harshitha422/markdownsyntax/blob/master/17422/love.jpg)
  ## Inserting videos
  [![video](https://img.youtube.com/vi/fJcuDLAUX80/0.jpg)](https://www.youtube.com/watch?v=fJcuDLAUX80)
-
+## Inserting video
+[![video](https://img.youtube.com/vi/iK7mtror35E/0.jpg)](https://www.youtube.com/watch?v=iK7mtror35E)
 
 
 
