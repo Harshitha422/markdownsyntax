@@ -36,6 +36,15 @@ _*ece*_
  ```python
  print("hello')
  ```
+ ### task Insert a code of hello in C
+ ```
+ #include <stdio.h>
+ int main()
+ {
+    printf("hello world")
+    return 0;
+ }
+ ```
     
     
 
